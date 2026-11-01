@@ -1,0 +1,4 @@
+numpy
+wfdb        # only for training/apnea_ecg_extract.py (downloads PhysioNet records)
+shap        # optional, only for the --crosscheck option in training/explain_shap.py
+pyserial    # only for training/send_patient_to_esp32.py (sends a patient file to the ESP32)

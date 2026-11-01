@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.db
+*.log
+dashboard_log.csv
+# downloaded / generated data
+apnea_ecg_features.csv
+*.csv
+shap_results/
+.env
+# never commit keys
+*key*.txt
